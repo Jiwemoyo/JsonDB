@@ -1,0 +1,76 @@
+{
+  "profesores": [
+    {
+      "nombre": "Alessandro",
+      "apellido": "Cisneros",
+      "materias": [
+        {
+          "nombre": "Programacion Basica"
+        },
+        {
+          "nombre": "Angular"
+        },
+        {
+          "nombre": "Godot"
+        }
+      ],
+      "id": "cc42"
+    },
+    {
+      "id": "3fbb",
+      "nombre": "Camila",
+      "apellido": "Guevara",
+      "materias": [
+        {
+          "nombre": "Emprendimiento"
+        },
+        {
+          "nombre": "Habilidades Blandas"
+        },
+        {
+          "nombre": "Vinculacion con la Sociedad"
+        }
+      ]
+    }
+  ],
+  "Alumnos": [
+    {
+      "nombre": "Anna",
+      "apellido": "Sangueza",
+      "promedio": 8.2,
+      "id": "9261"
+    },
+    {
+      "nombre": "Isabel",
+      "apellido": "Sorella",
+      "promedio": 10,
+      "id": "af2d"
+    },
+    {
+      "id": "f83e",
+      "nombre": "Guillermo",
+      "apellido": "Del Toro",
+      "promedio": 10
+    }
+  ],
+  "Cursons": [
+    {
+      "nombre": "JS",
+      "duracion": 7,
+      "dificulatad": "facil",
+      "id": "5e30"
+    },
+    {
+      "nombre": "C#",
+      "duracion": 8,
+      "dificulatad": "intermedia",
+      "id": "b580"
+    },
+    {
+      "nombre": "Cobol",
+      "duracion": 12,
+      "dificulatad": "dificil",
+      "id": "c7a1"
+    }
+  ]
+}

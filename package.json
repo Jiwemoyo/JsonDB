@@ -1,0 +1,14 @@
+{
+  "name": "projecto-json-server",
+  "version": "0.0.1",
+  "description": "proyecto para realizar un server muy basico",
+  "main": "add.js",
+  "scripts": {
+    "start": "npx json-server db.json"
+  },
+  "author": "Alessandro Cisneros",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
